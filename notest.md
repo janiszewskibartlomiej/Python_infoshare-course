@@ -19,4 +19,4 @@ git diff hash_commita #zmiany
 git log --onelie #historia zmian
 git rollback #cofniecie zmiany do ostatniego commita
 git checkout sciezka_do_pliku# przełaczenie się na  wersje po pliku z ostatniego commita
-git revert hash_commita #cofanie sie do commita
+git revert hash_commita #wycofanie danego  commita
