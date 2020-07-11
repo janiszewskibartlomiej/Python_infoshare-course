@@ -20,3 +20,6 @@ git log --onelie #historia zmian
 git rollback #cofniecie zmiany do ostatniego commita
 git checkout sciezka_do_pliku# przełaczenie się na  wersje po pliku z ostatniego commita
 git revert hash_commita #wycofanie danego  commita
+git checkout hash_commitu #przelaczymy sie do stanu z tego commita
+
+
